@@ -61,7 +61,7 @@ gem 'inline_svg'
 gem 'irb', '~> 1.8'
 gem 'kaminari', '~> 1.2'
 gem 'link_header', '~> 0.0'
-gem 'linzer', '~> 0.7.7'
+gem 'linzer', github: "nomadium/linzer", ref: "e258d5b3e07735993873d224e61a2c63d15ca93d"
 gem 'mario-redis-lock', '~> 1.2', require: 'redis_lock'
 gem 'mime-types', '~> 3.7.0', require: 'mime/types/columnar'
 gem 'mutex_m'
