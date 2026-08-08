@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'linzer/rack'
 require 'linzer/http/signature_feature'
 require 'linzer/message/adapter/http_gem/response'
 
